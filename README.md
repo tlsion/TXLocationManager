@@ -1,10 +1,10 @@
 # TXLocationManager
-`TXLocationManager` A light weight and easy to use location manager.
+A light weight and easy to use location manager.
 
 ### CocoaPods
 
 ```
-pod 'HCSStarRatingView', '~> 1.4.5'
+pod 'TXLocationManager'
 
 ```
 
