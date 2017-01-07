@@ -9,7 +9,7 @@ s.license      = "MIT"
 s.author       = { "Tlsion" => "249190182@qq.com" }
 s.source       = { :git => "https://github.com/tlsion/TXLocationManager.git", :tag => s.version.to_s }
 s.platform     = :ios, "5.0"
-s.source_files  = "TXLocationManager/*.{h,m}"
+s.source_files  = "TXLocationManager/*"
 s.frameworks = "UIKit", "CoreLocation"
 s.requires_arc = true
 
